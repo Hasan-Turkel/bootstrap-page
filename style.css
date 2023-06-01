@@ -1,0 +1,8 @@
+.banner{
+    background-image: url(./img/banner.jpeg);
+    background-size: cover;
+    height: 91.4vh;
+    background-position: center;
+}
+.container-fluid h3, h1{color: blueviolet;
+}
