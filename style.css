@@ -4,5 +4,19 @@
     height: 91.4vh;
     background-position: center;
 }
-.container-fluid h3, h1{color: blueviolet;
+.container-fluid h3, .container-fluid h1{color: blueviolet;
+}
+.fas{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img-fluid{
+    min-width:250px;
+}
+img.team{
+    width: 150px;
+    height: 200px;
 }
