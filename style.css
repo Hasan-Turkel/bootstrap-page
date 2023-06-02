@@ -20,3 +20,12 @@ img.team{
     width: 150px;
     height: 200px;
 }
+.map{
+    background-image: url(./img/map.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.map h1, .map p {
+    color: white;
+}
